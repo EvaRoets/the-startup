@@ -1,28 +1,29 @@
-# the-startup
+# The Startup 🏢
 
-This repo contains all files for the-startup challenge, an exercise that is part of BeCode's Full Stack Junior Web Developer training
+## Objectives
 
-## Focus
+- Learn to work in group, contributors https://github.com/Jawad63, https://github.com/JensRosseel and myself
+- Learn to complete a project so it can be delivered to a client
 
-- Languages: HTML, CSS, Git (and JavaScript)
-- Type of challenge: team consolidation, contributors https://github.com/Jawad63, https://github.com/JensRosseel and myself
-- Learning objectives: complete a group project that can be delivered to a client
-- Assignment: 
-	- Invent a company
-	- Agree on the corporate style (name, logo, slogan, color scheme, font family, etc.)
-	- Design and code one page per person
-	- Consolidate all pages and include a navigation bar
-- Requirements:
-	- Company pitch
-	- Full site showcasing of who did what
-	- Discussion of use of special techniques
-	- Discussion of any problem or bug solving
-- Suggestions:
-	- Special effect applied to the homepage (parallax image header, CSS animations, CSS transitions, etc.)
-	- Carousel on one page
-	- Responsiveness
-	- Google Maps
-	- Contact form
+## Specifications
+- Invent a company
+- Agree on the corporate style (name, logo, slogan, color scheme, font family, etc.)
+- Design and code one page per person
+- Consolidate all pages and include a navigation bar
+
+### Must-have-features
+- Company pitch
+- Full site showcasing of who did what
+- Discussion of use of special techniques
+- Discussion of any problem or bug solving
+
+### Nice-to-have-features
+- Special effect applied to the homepage (parallax image header, CSS animations, CSS transitions, etc.)
+- Carousel on one page
+- Responsiveness
+- Google Maps
+- Contact form
+
 
 ## Approach
 
@@ -79,7 +80,3 @@ This repo contains all files for the-startup challenge, an exercise that is part
 	5. easily evaluate if the freelance lifestyle is what they enjoy
 - SEO: 
   I aimed to correctly use headings for all pages, provide clear alt attributes for all images, insert internal links, and ensure no duplicate or plagiarizing content was used. Adding keyword and backlinks would further improve SEO for this website. 
-
-
-
-
