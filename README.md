@@ -1,7 +1,12 @@
 # The Startup 🏢
 
-## Objectives
+![start-up-one](https://user-images.githubusercontent.com/84382812/136963946-b9b28520-c62e-4935-9ef2-b610e4556744.PNG)
+![start-up-two](https://user-images.githubusercontent.com/84382812/136963951-1cd7aa75-5a61-4ed3-9771-0bc01fe06aae.PNG)
+![start-up-three](https://user-images.githubusercontent.com/84382812/136963949-39ba7fa6-5113-4d29-a70a-6b73cf0df49e.PNG)
+![start-up-four](https://user-images.githubusercontent.com/84382812/136963954-352527f2-757a-4b6b-a7bb-3103bd920aa7.PNG)
 
+
+## Objectives
 - Learn to work in group, contributors https://github.com/Jawad63, https://github.com/JensRosseel and myself
 - Learn to complete a project so it can be delivered to a client
 
@@ -11,13 +16,13 @@
 - Design and code one page per person
 - Consolidate all pages and include a navigation bar
 
-### Must-have-features
+### Must-have
 - Company pitch
-- Full site showcasing of who did what
+- Full site showcasisng of who did what
 - Discussion of use of special techniques
 - Discussion of any problem or bug solving
 
-### Nice-to-have-features
+### Nice-to-haves
 - Special effect applied to the homepage (parallax image header, CSS animations, CSS transitions, etc.)
 - Carousel on one page
 - Responsiveness
@@ -26,7 +31,6 @@
 
 
 ## Approach
-
 - Agree on corporate style
 	- Name: We>Code (Eva) (Web + Code + Developers)
 	- Logo (Eva)
