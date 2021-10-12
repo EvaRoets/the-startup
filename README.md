@@ -1,5 +1,7 @@
 # The Startup 🏢
 
+Watch the result of this project >> [here](https://elated-bassi-4dbff1.netlify.app/)
+
 ![start-up-one](https://user-images.githubusercontent.com/84382812/136963946-b9b28520-c62e-4935-9ef2-b610e4556744.PNG)
 ![start-up-two](https://user-images.githubusercontent.com/84382812/136963951-1cd7aa75-5a61-4ed3-9771-0bc01fe06aae.PNG)
 ![start-up-three](https://user-images.githubusercontent.com/84382812/136963949-39ba7fa6-5113-4d29-a70a-6b73cf0df49e.PNG)
