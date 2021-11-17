@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7dd06208-a9fe-49d8-9f42-a171ce651e17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/contact.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../the-hill/js-exercises" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -51,7 +51,9 @@
       <workItem from="1623078208278" duration="4000" />
       <workItem from="1623136046223" duration="5031000" />
       <workItem from="1623141364316" duration="10470000" />
-      <workItem from="1623225387599" duration="595000" />
+      <workItem from="1623225387599" duration="1195000" />
+      <workItem from="1634044720780" duration="532000" />
+      <workItem from="1634047745897" duration="340000" />
     </task>
     <servers />
   </component>

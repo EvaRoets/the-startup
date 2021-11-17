@@ -57,7 +57,6 @@ a:hover{
    transition: transform .5s, filter 1.5s ease-in-out;
    filter: grayscale(100%);
    margin: auto;
-   padding: auto;
 }
 
 .about-us-img:hover{
@@ -96,7 +95,6 @@ a:hover{
    transition: transform .5s, filter 1.5s ease-in-out;
    filter: grayscale(100%);
    margin: auto;
-   padding: auto;
 }
 
 .services-img-one:hover{
@@ -123,7 +121,6 @@ a:hover{
 
 .services-img-two{
    margin: auto;
-   padding: auto;
    box-shadow: rgb(17,100,102, 0.8) 0px 20px 30px -10px;
    grid-area: services-img-two;
    transition: transform .5s, filter 1.5s ease-in-out;
@@ -153,21 +150,18 @@ a:hover{
 
 .port-img-one{
    margin: auto;
-   padding: auto;
    grid-area: port-img-one;
    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .port-img-two{
    margin: auto;
-   padding: auto;
    grid-area: port-img-two;
    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .port-img-three{
    margin: auto;
-   padding: auto;
    grid-area: port-img-three;
    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 
@@ -186,7 +180,6 @@ a:hover{
 
 .container-footer{
    margin: auto;
-   padding: auto;
    grid-gap: 1rem;
    display: grid;
    grid-template-columns: 2fr 1fr 1fr;
@@ -330,7 +323,6 @@ a:hover{
    /**********About-us section***********/
 
    .container-aboutme{
-      margin: relative;
       display: grid;
       grid-template-columns: 1fr;
       grid-template-rows: 1fr;
@@ -408,7 +400,6 @@ a:hover{
 
    .container-footer{
       margin: auto;
-      padding: auto;
       grid-gap: 1rem;
       display: grid;
       grid-template-columns: 1fr;

@@ -130,7 +130,6 @@ footer {
 
 .container-footer{
   margin: auto;
-  padding: auto;
   grid-gap: 1rem;
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
@@ -184,13 +183,11 @@ footer {
   }
 
   .form-box{
-    padding: auto;
     margin: auto;
   }
 
   .container-footer{
   margin: auto;
-  padding: auto;
   grid-gap: 1rem;
   display: grid;
   grid-template-columns: 1fr;
